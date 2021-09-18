@@ -2,7 +2,7 @@
 - 👀 I’m interested in cnc and laser
 - 🌱 I’m currently learning cnv and laser
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... email ridgwayhomeinsl@gmail.com
+- 📫 How to reach me ... email ridgwayhomeinsp@gmail.com
 
 <!---
 SteveR12351/SteveR12351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
